@@ -2,7 +2,7 @@ namespace ExemploLista
 {
     public class HigienePessoal:Produto
     {
-        public string NumeroMS { get; set; }
-        public string Marca { get; set; }
+        public string numeroMS { get; set; }
+        public string marca { get; set; }
     }
 }
